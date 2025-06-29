@@ -13,27 +13,16 @@ body{
 }
 
 .AvImg{
-    padding: 300px;   
+    padding: 30px 0;
+    text-align: center;   
 }
-
-p:hover{
-    background-color: green;
-}
-
-/*menu bar copied below learn it*/
-
 
 #menu a{
     color:#ffffff;
     font-family: Helvetica, sans-serif;
     font-size: 15px;
     text-decoration:none;
-    font-weight: 500px;
-    
+    font-weight: 500;
     padding-left: 10px;
     padding-right: 10px;
-}
-
-ol:hover{
-    background-color: green;
 }
