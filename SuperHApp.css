@@ -1,0 +1,38 @@
+.AvImg img{
+    width: 700px;
+    height: 550px;
+}
+
+a:hover{
+    background-color: aquamarine;
+}
+
+body{
+    background-color: orange;
+}
+
+.AvImg{
+    padding: 300px;   
+}
+
+p:hover{
+    background-color: red;
+}
+
+/*menu bar copied below learn it*/
+
+
+#menu a{
+    color:#ffffff;
+    font-family: Helvetica, sans-serif;
+    font-size: 15px;
+    text-decoration:none;
+    font-weight: 500px;
+    
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+ol:hover{
+    background-color: white;
+}
