@@ -8,7 +8,8 @@ a:hover{
 }
 
 body{
-    background-color: orange;
+    background-color: black;
+    color: darkorange;
 }
 
 .AvImg{
@@ -16,7 +17,7 @@ body{
 }
 
 p:hover{
-    background-color: red;
+    background-color: green;
 }
 
 /*menu bar copied below learn it*/
@@ -34,5 +35,5 @@ p:hover{
 }
 
 ol:hover{
-    background-color: white;
+    background-color: green;
 }
